@@ -44,7 +44,7 @@ Ensure the pupillometry dataset is present in the working directory.
    ```bash
    streamlit run .\app.py
    ```
-4. Use the GUI to input pupillometry features and predict DR stages.
+4. Use the GUI to upload pupil images and predict DR stages.
 
 ## Usage
 
